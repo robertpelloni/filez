@@ -420,3 +420,6 @@ url = https://github.com/microsoft/vcpkg
 [submodule "Local-File-Organizer"]
 	path = Local-File-Organizer
 	url = https://github.com/QiuYannnn/Local-File-Organizer
+[submodule "VERT"]
+	path = VERT
+	url = https://github.com/VERT-sh/VERT
